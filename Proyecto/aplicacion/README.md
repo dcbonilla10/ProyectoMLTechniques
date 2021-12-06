@@ -8,3 +8,6 @@ Para correr el programa desde una CLI (interfaz por línea de comandos), utilice
 	python main.py
 Se le pedirá que ingrese primero el asunto del caso y, posteriormente, la descripción del caso, que debe ser breve pero específica. El programa le indicará la categoría más probable para el caso y 
 la probabilidad de que pertenezca a esa categoría, lo cual facilitará la resolución del problema.
+
+## Proyecto desarrollado por el grupo #1 de Machine Learning Techniques, 2021-20
+## Laura González, Nicolás Gaitán y David Bonilla
