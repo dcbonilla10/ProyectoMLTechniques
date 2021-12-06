@@ -1,4 +1,4 @@
-## Pre-requisitos: 
+## Prerequisitos: 
 - Fasttext
 - nltk
 
