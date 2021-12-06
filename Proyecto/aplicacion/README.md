@@ -1,6 +1,6 @@
 ## Pre-requisitos: 
 - Fasttext
-- ntlk
+- nltk
 
 ## Aplicación:
 Esta aplicación le permitirá ingresar un caso de servicio de 'Helpdesk' que requiera de la atención del DSIT de la Universidad de los Andes y le proveerá la categoría más probable para el caso por medio de un modelo de redes neuronales.
